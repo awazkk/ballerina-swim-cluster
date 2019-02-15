@@ -1,5 +1,6 @@
-# Ballerina folder
+# IDE folders
 .ballerina
+.idea
 # Compiled class file
 
 # Log file
