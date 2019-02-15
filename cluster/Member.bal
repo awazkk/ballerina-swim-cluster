@@ -1,4 +1,4 @@
-import Address;
+
 # Cluster member which represents node in the cluster and contains its id and address. 
 public type Member object {
 

@@ -1,11 +1,10 @@
-import ballerina/io;
-import ballerina/socket;
-# Address of a member in the cluster
 
+# Address of a member in the cluster
 public type Address object {
 
     private string host;
     private int port;
+
 
     # Create instance of Address with given parameters
     # 

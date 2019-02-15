@@ -1,3 +1,4 @@
 [project]
-org-name = "****"
+# Org name assigned to modules when installed into a repository
+org-name = "org"
 version = "0.0.1"

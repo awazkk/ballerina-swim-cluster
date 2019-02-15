@@ -1,4 +1,4 @@
-import Address;
+
 # The Class Message introduces generic protocol used for point to point communication 
 
 public type Message object {
